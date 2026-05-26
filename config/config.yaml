@@ -142,7 +142,6 @@ proxy-groups:
   - name: 🚀 默认代理
     type: select
     proxies:
-      - tailscale
       - 🔯 全部故转
       - ♻️ 自动选择
       - 🌐 全部节点
